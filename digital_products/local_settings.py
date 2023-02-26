@@ -1,4 +1,4 @@
-DEBUG = False
-IS_DEVEL = True
+# DEBUG = False
+# IS_DEVEL = True
 
-ALLOWED_HOSTS = ['*']
+# ALLOWED_HOSTS = ['*']
